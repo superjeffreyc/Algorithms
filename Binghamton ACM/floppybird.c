@@ -1,18 +1,7 @@
 /*
- * This program calculates the highest scorers given a list of names and scores
- * The first line contains the number of lines to follow
+ * https://www.hackerrank.com/contests/bingacm-sep-15/challenges/floppy-bird-high-score
  *
- * Example Input:
- *
- * 4
- * abc 10
- * def 20
- * ghi 20
- * jkl 30
- *
- * Example Output:
- *
- * def and ghi have the high score of 20
+ * This program calculates the highest scorers given a list of names and scores.
  *
  */
 
